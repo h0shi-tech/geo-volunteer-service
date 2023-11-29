@@ -27,7 +27,7 @@
 
 - Copy code
 
-- git clone https://github.com/yourusername/geo-volunteer-service.git
+- git clone https://github.com/h0shi-tech/geo-volunteer-service.git
 
 - Установка зависимостей: Перейдите в папку с каждым сервисом и выполните команду установки зависимостей.
 
